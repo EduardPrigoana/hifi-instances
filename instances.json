@@ -29,8 +29,7 @@
   },
   "ui": {
     "monochrome": [
-      "https://monochrome.tf",
-      "https://monochrome.prigoana.com"
+      "https://monochrome.tf"
     ],
     "tidal-ui (bini)": [
       "https://music.binimum.org/",

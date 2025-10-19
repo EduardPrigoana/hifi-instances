@@ -1,34 +1,46 @@
 {
   "api": {
-    "monochrome": [
-      "https://ohio.monochrome.tf",
-      "https://virginia.monochrome.tf",
-      "https://oregon.monochrome.tf",
-      "https://california.monochrome.tf",
-      "https://frankfurt.monochrome.tf",
-      "https://singapore.monochrome.tf",
-      "https://tokyo.monochrome.tf",
-      "https://jakarta.monochrome.tf"
-    ],
-    "squid.wtf": [
-      "https://triton.squid.wtf",
-      "https://aether.squid.wtf",
-      "https://zeus.squid.wtf",
-      "https://kraken.squid.wtf",
-      "https://phoenix.squid.wtf",
-      "https://shiva.squid.wtf",
-      "https://chaos.squid.wtf"
-    ],
-    "lucida (qqdl)": [
-      "https://wolf.qqdl.site",
-      "https://maus.qqdl.site",
-      "https://vogel.qqdl.site",
-      "https://katze.qqdl.site",
-      "https://hund.qqdl.site"
-    ],
-    "401658": [
-      "https://tidal.401658.xyz"
-    ]
+    "monochrome": {
+      "urls": [
+        "https://ohio.monochrome.tf",
+        "https://virginia.monochrome.tf",
+        "https://oregon.monochrome.tf",
+        "https://california.monochrome.tf",
+        "https://frankfurt.monochrome.tf",
+        "https://singapore.monochrome.tf",
+        "https://tokyo.monochrome.tf",
+        "https://jakarta.monochrome.tf"
+      ],
+      "cors": false
+    },
+    "squid.wtf": {
+      "urls": [
+        "https://triton.squid.wtf",
+        "https://aether.squid.wtf",
+        "https://zeus.squid.wtf",
+        "https://kraken.squid.wtf",
+        "https://phoenix.squid.wtf",
+        "https://shiva.squid.wtf",
+        "https://chaos.squid.wtf"
+      ],
+      "cors": true
+    },
+    "lucida (qqdl)": {
+      "urls": [
+        "https://wolf.qqdl.site",
+        "https://maus.qqdl.site",
+        "https://vogel.qqdl.site",
+        "https://katze.qqdl.site",
+        "https://hund.qqdl.site"
+      ],
+      "cors": false
+    },
+    "401658": {
+      "urls": [
+        "https://tidal.401658.xyz"
+      ],
+      "cors": false
+    }
   },
   "ui": {
     "monochrome": [

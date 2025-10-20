@@ -7,6 +7,7 @@
         "https://oregon.monochrome.tf",
         "https://california.monochrome.tf",
         "https://frankfurt.monochrome.tf",
+        "https://london.monochrome.tf",
         "https://singapore.monochrome.tf",
         "https://tokyo.monochrome.tf",
         "https://jakarta.monochrome.tf"
@@ -47,11 +48,12 @@
       "https://monochrome.tf"
     ],
     "tidal-ui (bini)": [
-      "https://music.binimum.org/",
-      "https://tidal.squid.wtf"
+      "https://music.binimum.org",
+      "https://tidal.squid.wtf",
+      "https://tidal.qqdl.site"
     ],
     "Digger": [
-      "https://digger-ui.vercel.app/"
+      "https://digger-ui.vercel.app"
     ]
   }
 }

@@ -23,7 +23,7 @@
         "https://shiva.squid.wtf",
         "https://chaos.squid.wtf"
       ],
-      "cors": true
+      "cors": false
     },
     "lucida (qqdl)": {
       "urls": [

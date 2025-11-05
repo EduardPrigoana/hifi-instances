@@ -41,6 +41,12 @@
       ],
       "cors": false
     }
+    "kinoplus": {
+      "urls": [
+        "https://tidal.kinoplus.online/"
+      ],
+      "cors": false
+    }
   },
   "ui": {
     "monochrome": [

@@ -40,7 +40,7 @@
         "https://hifi.401658.xyz"
       ],
       "cors": false
-    }
+    },
     "kinoplus": {
       "urls": [
         "https://tidal.kinoplus.online/"
